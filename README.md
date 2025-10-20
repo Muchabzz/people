@@ -1,1 +1,3 @@
-# people
+Kamil   
+Sonia 
+Karol

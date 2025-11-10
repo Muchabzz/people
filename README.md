@@ -1,3 +1,3 @@
-Kamil   
-Sonia 
-Karol
+Kamil Mucha 
+Sonia Makuch
+Karol Kamuda
